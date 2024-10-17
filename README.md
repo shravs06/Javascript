@@ -1,1 +1,1 @@
-# Javascript
+# Simon Says Game
